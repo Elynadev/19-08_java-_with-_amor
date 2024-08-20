@@ -1,9 +1,9 @@
- //exercie 1
+// 
 
  public class app{
     public static void main (String[]args){
         System.out.println("bon bon");
-
+ //exercie 1
 //   int var1 = 55;
 //      if (var1%2==0){
 
@@ -93,15 +93,21 @@
 //   }
 
   //doWWhile
-  int i=0;
-  do{
-   i=i+i;
-   i++;
-    System.out.println("la valeur de i est  " +i);
+  // int i=0;
+  // do{
+  //  i=i+i;
+  //  i++;
+  //   System.out.println("la valeur de i est  " +i);
 
-  }while (i<10);
+  // }while (i<10);
 
-    }}
+  //   }}
 
     // inverser avec dowhile
     //trouver le maximumv 
+
+    
+  // doWWhile
+ 
+ 
+    }}
